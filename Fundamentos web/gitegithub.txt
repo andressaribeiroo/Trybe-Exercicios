@@ -1,0 +1,4 @@
+o conceito de Git é uma das habilidades fundamentais que você vai exercitar ao
+longo de todo o curso. É fato que, por ser um conceito novo e diferente para você, 
+será necessário muita prática para sedimentar esse conceito.
+
