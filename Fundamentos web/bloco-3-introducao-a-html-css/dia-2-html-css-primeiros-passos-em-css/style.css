@@ -1,0 +1,33 @@
+body{
+    font-size: 16px;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 65px;
+    color: blueviolet;
+    font-family: sans-serif, Verdana;
+    
+}
+
+#list {
+    text-decoration: none;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+.vermelho{
+    background-color: red;
+}
+
+.marrom{
+    background-color: brown;
+}
+
+.paragrafo{
+    background-color: antiquewhite;
+    font-weight: 600;
+    font-size: 2em;
+    line-height: 2em;
+}
