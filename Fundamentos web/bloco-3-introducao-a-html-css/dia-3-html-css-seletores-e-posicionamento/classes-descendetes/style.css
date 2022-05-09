@@ -1,0 +1,39 @@
+h1, h3{
+    color: red
+}
+
+h1{
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+ol.frases li {
+font-weight: 700; 
+}
+
+.impar {
+    text-transform: uppercase;
+}
+
+.ling{
+    color: blue;
+}
+
+.java{
+    background-color: rosybrown;
+}
+
+.frases{
+    background-color: yellow;
+
+}
+
+ul.links li:hover{
+    background-color: black;
+    text-decoration: none;
+    color: green;
+}
