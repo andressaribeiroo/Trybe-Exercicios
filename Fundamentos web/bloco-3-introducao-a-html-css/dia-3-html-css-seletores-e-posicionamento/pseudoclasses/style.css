@@ -1,6 +1,6 @@
 div:hover{
-   background-color: black;
-  color: white;
+  
+  border: 1px solid rgb(0, 0, 0);
 }
 
 .um{
